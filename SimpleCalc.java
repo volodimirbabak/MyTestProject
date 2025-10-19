@@ -17,5 +17,5 @@ public class SimpleCalc {
     public double getDiff() {
         return this.a - this.b;
     }
-    
+    // -------------------------
 }
